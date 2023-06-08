@@ -1,3 +1,3 @@
 # ComboFinder-MiniProject-2
-Problem Statement: ComboFinder
-image
+# Problem Statement: ComboFinder
+# image
